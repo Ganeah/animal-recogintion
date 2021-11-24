@@ -1,0 +1,23 @@
+body{       
+    font-family: 'Roboto Slab',serif;
+}
+#header_div{
+    background-color: lime;
+    color: darkcyan;
+}
+#main_div{
+    font-size: 30px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.copy_right_footer{
+    background-color: blue;
+    color: red;
+    width:fit-content;
+    font-size: 30px;
+    text-shadow: 0.3;
+}
+img{
+    height: 400px;
+    width: 450px;
+}
